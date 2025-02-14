@@ -126,9 +126,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbissolotti&show_icons=true&locale=en" alt="lucasbissolotti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbissolotti&" alt="lucasbissolotti" /></p>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Lucas Bissolotti">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Lucas%20Bissolotti&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
