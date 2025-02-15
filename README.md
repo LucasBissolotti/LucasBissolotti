@@ -124,9 +124,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbissolotti&show_icons=true&locale=en&layout=compact" alt="lucasbissolotti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbissolotti&show_icons=true&locale=en" alt="lucasbissolotti" /></p>
-
-
-
-<img src="https://raw.githubusercontent.com/LucasBissolotti/LucasBissolotti/output/snake.svg" alt="Snake animation" />
-
-###
