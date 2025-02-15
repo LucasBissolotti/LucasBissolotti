@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-bissolotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-bissolotti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-bissolotti-069011272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-bissolotti" height="30" width="40" /></a>
 <a href="https://instagram.com/lucas_bissolotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas_bissolotti" height="30" width="40" /></a>
 </p>
 
@@ -124,3 +124,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbissolotti&show_icons=true&locale=en&layout=compact" alt="lucasbissolotti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbissolotti&show_icons=true&locale=en" alt="lucasbissolotti" /></p>
+
+
+
+<img src="https://raw.githubusercontent.com/LucasBissolotti/LucasBissolotti/output/snake.svg" alt="Snake animation" />
+
+###
