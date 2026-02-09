@@ -16,7 +16,7 @@
 
 - 🧠 **Currently Learning:** System development, digital accessibility, Flask, databases, web applications, and **Artificial Intelligence**.
 
-- ⚡ **Working on:** Systems engineering internship with ION 8650 and ION 7400 energy meters.
+- ⚡ **Working on:** Systems engineering with ION 8650 and ION 7400 energy meters.
 
 - 🚀 **Graduation Project:** Developing a **Digital Inclusion Platform for People with Disabilities**.
 
