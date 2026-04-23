@@ -16,7 +16,7 @@
 
 - 🧠 **Currently Learning:** System development, digital accessibility, Flask, databases, web applications, and **Artificial Intelligence**.
 
-- ⚡ **Working on:** Systems engineering with ION 8650 and ION 7400 energy meters.
+- ⚡ **Working on:** Workflows using N8N MCP server in Claude Code.
 
 - 🚀 **Graduation Project:** Developing a **Digital Inclusion Platform for People with Disabilities**.
 
