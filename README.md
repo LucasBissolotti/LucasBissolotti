@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lucas+Bissolotti;Full+Stack+Developer;Technology+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 A passionate developer exploring new technologies and innovative solutions</h3>
+<h3 align="center"> A passionate developer exploring new technologies and innovative solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucasbissolotti&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
