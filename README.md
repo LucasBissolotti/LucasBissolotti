@@ -14,17 +14,17 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🧠 **Currently Learning:** System development, digital accessibility, Flask, databases, web applications, and **Artificial Intelligence**.
+-  **Currently Learning:** System development, digital accessibility, Flask, databases, web applications, and **Artificial Intelligence**.
 
-- ⚡ **Working on:** Workflows using N8N MCP server in Claude Code.
+-  **Working on:** Workflows using N8N MCP server in Claude Code.
 
-- 🚀 **Graduation Project:** Developing a **Digital Inclusion Platform for People with Disabilities**.
+-  **Graduation Project:** Developing a **Digital Inclusion Platform for People with Disabilities**.
 
-- 🎬 **Side Projects:** Surf filming with drones, 4K video editing, and AI-powered image analysis.
+-  **Side Projects:** Surf filming with drones, 4K video editing, and AI-powered image analysis.
 
-- 🏆 **Achievement:** Bronze medal at IFOMAT (IFSUL Mathematics Olympiad)!
+-  **Achievement:** Bronze medal at IFOMAT (IFSUL Mathematics Olympiad)!
 
-- 🤙 **Fun fact:** I'm passionate about technology, innovation, and extreme sports! 🏄‍♂️
+-  **Fun fact:** I'm passionate about technology, innovation, and extreme sports! 🏄‍♂️
 
 ---
 
